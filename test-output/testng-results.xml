@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Reading data from peroperty file]]>
+    </line>
+    <line>
+      <![CDATA[data is https://neostox.com/]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms]]>
+    </line>
+    <line>
+      <![CDATA[launching browser]]>
+    </line>
+    <line>
+      <![CDATA[clicking on signin button]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from peroperty file]]>
+    </line>
+    <line>
+      <![CDATA[data is 7769045652]]>
+    </line>
+    <line>
+      <![CDATA[Entering mobile number]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on sign in button]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from peroperty file]]>
+    </line>
+    <line>
+      <![CDATA[data is 5555]]>
+    </line>
+    <line>
+      <![CDATA[entering password]]>
+    </line>
+    <line>
+      <![CDATA[clicking on submit button]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms]]>
+    </line>
+    <line>
+      <![CDATA[scrolling into view to OK]]>
+    </line>
+    <line>
+      <![CDATA[clicking on PopUp OK button]]>
+    </line>
+    <line>
+      <![CDATA[getting ac balance]]>
+    </line>
+    <line>
+      <![CDATA[ balance isRs.5,00,000.00]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from peroperty file]]>
+    </line>
+    <line>
+      <![CDATA[data is TCID-4568]]>
+    </line>
+    <line>
+      <![CDATA[taking screenshot ]]>
+    </line>
+    <line>
+      <![CDATA[screenShot taken and saved at C:\Users\screenshot\TCID-4568XMqG.png]]>
+    </line>
+    <line>
+      <![CDATA[Logging out from neoStox]]>
+    </line>
+    <line>
+      <![CDATA[clicking on signin button]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from peroperty file]]>
+    </line>
+    <line>
+      <![CDATA[data is 7769045652]]>
+    </line>
+    <line>
+      <![CDATA[Entering mobile number]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on sign in button]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from peroperty file]]>
+    </line>
+    <line>
+      <![CDATA[data is 5555]]>
+    </line>
+    <line>
+      <![CDATA[entering password]]>
+    </line>
+    <line>
+      <![CDATA[clicking on submit button]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms]]>
+    </line>
+    <line>
+      <![CDATA[There is pop up]]>
+    </line>
+    <line>
+      <![CDATA[getting actual user Name]]>
+    </line>
+    <line>
+      <![CDATA[Actual user name is --> Hi Shweta Dhilpe]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from peroperty file]]>
+    </line>
+    <line>
+      <![CDATA[data is Hi Shweta Dhilpe]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from peroperty file]]>
+    </line>
+    <line>
+      <![CDATA[data is TCID-4567]]>
+    </line>
+    <line>
+      <![CDATA[taking screenshot ]]>
+    </line>
+    <line>
+      <![CDATA[screenShot taken and saved at C:\Users\screenshot\TCID-45674hzN.png]]>
+    </line>
+    <line>
+      <![CDATA[Logging out from neoStox]]>
+    </line>
+    <line>
+      <![CDATA[Closing application]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-16T12:53:07 IST" name="Default suite" finished-at="2023-01-16T12:54:04 IST" duration-ms="56912">
+    <groups>
+    </groups>
+    <test started-at="2023-01-16T12:53:07 IST" name="Default test" finished-at="2023-01-16T12:54:04 IST" duration-ms="56912">
+      <class name="neoStoxTestClasses.ValidateNeoStoxUserNameUsingPropertyFile">
+        <test-method is-config="true" signature="launchNeoStoxApp()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserNameUsingPropertyFile@2805d709]" started-at="2023-01-16T12:53:07 IST" name="launchNeoStoxApp" finished-at="2023-01-16T12:53:14 IST" duration-ms="7161" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Reading data from peroperty file]]>
+            </line>
+            <line>
+              <![CDATA[data is https://neostox.com/]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms]]>
+            </line>
+            <line>
+              <![CDATA[launching browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchNeoStoxApp -->
+        <test-method is-config="true" signature="loginToNeoStox()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserNameUsingPropertyFile@2805d709]" started-at="2023-01-16T12:53:14 IST" name="loginToNeoStox" finished-at="2023-01-16T12:53:29 IST" duration-ms="15331" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on signin button]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from peroperty file]]>
+            </line>
+            <line>
+              <![CDATA[data is 7769045652]]>
+            </line>
+            <line>
+              <![CDATA[Entering mobile number]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on sign in button]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from peroperty file]]>
+            </line>
+            <line>
+              <![CDATA[data is 5555]]>
+            </line>
+            <line>
+              <![CDATA[entering password]]>
+            </line>
+            <line>
+              <![CDATA[clicking on submit button]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms]]>
+            </line>
+            <line>
+              <![CDATA[scrolling into view to OK]]>
+            </line>
+            <line>
+              <![CDATA[clicking on PopUp OK button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginToNeoStox -->
+        <test-method signature="validateACBalance()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserNameUsingPropertyFile@2805d709]" started-at="2023-01-16T12:53:29 IST" name="validateACBalance" finished-at="2023-01-16T12:53:30 IST" duration-ms="951" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[getting ac balance]]>
+            </line>
+            <line>
+              <![CDATA[ balance isRs.5,00,000.00]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from peroperty file]]>
+            </line>
+            <line>
+              <![CDATA[data is TCID-4568]]>
+            </line>
+            <line>
+              <![CDATA[taking screenshot ]]>
+            </line>
+            <line>
+              <![CDATA[screenShot taken and saved at C:\Users\screenshot\TCID-4568XMqG.png]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateACBalance -->
+        <test-method is-config="true" signature="logOutFromNeoStox()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserNameUsingPropertyFile@2805d709]" started-at="2023-01-16T12:53:30 IST" name="logOutFromNeoStox" finished-at="2023-01-16T12:53:35 IST" duration-ms="5081" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logging out from neoStox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOutFromNeoStox -->
+        <test-method is-config="true" signature="loginToNeoStox()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserNameUsingPropertyFile@2805d709]" started-at="2023-01-16T12:53:35 IST" name="loginToNeoStox" finished-at="2023-01-16T12:53:44 IST" duration-ms="8197" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on signin button]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from peroperty file]]>
+            </line>
+            <line>
+              <![CDATA[data is 7769045652]]>
+            </line>
+            <line>
+              <![CDATA[Entering mobile number]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on sign in button]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from peroperty file]]>
+            </line>
+            <line>
+              <![CDATA[data is 5555]]>
+            </line>
+            <line>
+              <![CDATA[entering password]]>
+            </line>
+            <line>
+              <![CDATA[clicking on submit button]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms]]>
+            </line>
+            <line>
+              <![CDATA[There is pop up]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginToNeoStox -->
+        <test-method signature="validateUserName()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserNameUsingPropertyFile@2805d709]" started-at="2023-01-16T12:53:44 IST" name="validateUserName" finished-at="2023-01-16T12:53:44 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[getting actual user Name]]>
+            </line>
+            <line>
+              <![CDATA[Actual user name is --> Hi Shweta Dhilpe]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from peroperty file]]>
+            </line>
+            <line>
+              <![CDATA[data is Hi Shweta Dhilpe]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from peroperty file]]>
+            </line>
+            <line>
+              <![CDATA[data is TCID-4567]]>
+            </line>
+            <line>
+              <![CDATA[taking screenshot ]]>
+            </line>
+            <line>
+              <![CDATA[screenShot taken and saved at C:\Users\screenshot\TCID-45674hzN.png]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateUserName -->
+        <test-method is-config="true" signature="logOutFromNeoStox()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserNameUsingPropertyFile@2805d709]" started-at="2023-01-16T12:53:44 IST" name="logOutFromNeoStox" finished-at="2023-01-16T12:53:47 IST" duration-ms="2690" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logging out from neoStox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOutFromNeoStox -->
+        <test-method is-config="true" signature="closeNeoStoxApp()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserNameUsingPropertyFile@2805d709]" started-at="2023-01-16T12:53:47 IST" name="closeNeoStoxApp" finished-at="2023-01-16T12:54:04 IST" duration-ms="17185" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeNeoStoxApp -->
+      </class> <!-- neoStoxTestClasses.ValidateNeoStoxUserNameUsingPropertyFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
